@@ -38,9 +38,10 @@ image
 - Data ops: Kafka, Cassandra, DynamoDB
 - Machine Learning: PyTorch, TensorFlow; 
 - Language: Kotlin, Java, Python, Golang
----
-# LinkedIn [Ted Li](https://www.linkedin.com/in/ted-li-lhl/) 
 
+---
+#Contacts
+LinkedIn [Ted Li](https://www.linkedin.com/in/ted-li-lhl/) 
 Email: [email](mailto:teddylhl@gmail.com) | Address: Cambridge, MA, 02141 
 
 
