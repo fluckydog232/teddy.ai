@@ -1,10 +1,10 @@
-title: Ted Li # your name (or website title) here
+title: Teddy Li # your name (or website title) here
 logo: "epoch_profile.jpeg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
-  <br><br>
-  Second description 
-  <br><br>
+  About me
+  <br> Teddy, a skilled data engineer and software developer with a passion for racket sports. He fell in love with programming early on in his career while working at a research institute, where he discovered his talent for building innovative software. John's technical skills include parallel compute and cloud services, making him an expert in his field. When he's not coding, you can find John on the tennis court or badminton court, honing his skills and competing with others. Originally from overseas, Teddy has been living in the US for the past 6 years, where he continues to grow his skills and make a name for himself in the tech industry.<br>
+  Why me  
+  <br> This is a candiate with exceptional experience in machine learning and deep learning, having worked with PyTorch and TensorFlow on Google Cloud Projects. They have developed and implemented recommendation engines and optimized training models, resulting in significant performance boosts. In addition, their technical skills include docker, airflow, CUDA, AWS, GCP, Kafka, Cassandra, and DynamoDB. They have also worked on Android game development with C++ and OpenGL surface, demonstrating a diverse skill set. With their proficiency in Kotlin, Java, Python, and Golang, they would be an asset to any organization looking for a talented machine learning engineer or data scientist.<br>
   <a href="https://www.linkedin.com/in/ted-li-lhl/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
