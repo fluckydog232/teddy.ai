@@ -41,7 +41,7 @@ image
 ---
 # LinkedIn [Ted Li](https://www.linkedin.com/in/ted-li-lhl/) 
 
-Email: [mailto](teddylhl@gmail.com) | Address: Cambridge, MA, 02141 
+Email: [email](mailto:teddylhl@gmail.com) | Address: Cambridge, MA, 02141 
 
 
 
