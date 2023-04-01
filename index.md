@@ -1,4 +1,4 @@
-## web resume
+## resume
 
 
 ---
