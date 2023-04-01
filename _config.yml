@@ -1,19 +1,13 @@
 title: Teddy Li # your name (or website title) here
 logo: "epoch_profile.jpeg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  About me Test<br>
-  Teddy, a skilled software engineer with a passion for racket sports. He fell in love with programming early on in his interaction with flash games,<br>
+  About me Test <br>
+  Teddy, a skilled software engineer with a passion for racket sports. He fond great calmness through programming early on in his interaction with flash games,<br>
   where he discovered his talent for building innovative software. <br>
   When he's not coding, you can find Teddy on the tennis court or inch away ping-pong tables, 
   honing his skills and competing with others. Originally from overseas, Teddy has been living in the US for the past 6 years, <br>
   where he continues to grow his skills and make a name for himself in the tech industry. <br>
   
-  Why me  <br>
-  "This is a candiate with exceptional experience in machine learning and deep learning, <br>
-        having worked with PyTorch and TensorFlow on Google Cloud Projects. 
-        He have in depth experience optimize training machine learning models and system programming. He also worked on Android game development, demonstrating a diverse skill set. 
-        With his proficiency in Kotlin, Java, Python, and Golang, they would be an asset to any organization looking for a talented engineer."
-  <br>
   <a href="https://www.linkedin.com/in/ted-li-lhl/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
