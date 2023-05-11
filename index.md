@@ -11,17 +11,11 @@ image
   - Image segmentation: automated masking cars from backgrounds in studio shots with modified CNN architecture reduced 90% of loss on    overall images collections.
   - Improved accuracy of Spanish to English machine translation by improving encoder decoder model with attention.
 
-- Tap Beat: music game on Android build with cpp
-  - Reduced gaming visual adaptation with simplistic interface interaction with OpenGL surface.
-  - Utilized Google Oboe to manage audio files, created audio stream to send data into audio speaker.
-  - Created Mixer to allow playing multiple sounds simultaneously, used LockFreeQueue to manage events threads.
-
-
 ---
 
 ### Experience
 - Facebook, Software Engineer, April 2022- 
-    - Build optimized time series systems, wrote PyTorch library for debugging model training.
+    - Build optimized time series systems, wrote library for debugging pytorch model.
     - Head training platform reliability upgrades to support PyTorch model authoring and training through distributed data parallelism. 
     - Lead project on model source-control web-application to visualize model iteration and training progress.
 - Amazon Robotics, Software Engineer, March 2020 -- March 2022
