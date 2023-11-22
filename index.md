@@ -1,42 +1,38 @@
-## resume
-
 
 ---
 
-### Projects
+### What I am working on
 
-- Applied Deep Learning (Tensorflow on Google Cloud Projects)
-image
-  - Distributed training: experimented with distributing training load to multi-workers and experimented with strategies such as collective     communication leading to 50% performance boost.
-  - Image segmentation: automated masking cars from backgrounds in studio shots with modified CNN architecture reduced 90% of loss on    overall images collections.
-  - Improved accuracy of Spanish to English machine translation by improving encoder decoder model with attention.
+- Scallable LLM:  A high-performance inference system for large language models, optimized for inference on edge device.
+- Research Assistant:  OpenAI based pdf reader that digests papers in flying colors built with fine-tuned LLM, set up RAG   
 
 ---
 
-### Experience
-- Facebook, Software Engineer, April 2022- 
+### My professional work
+- Meta(Facebook), Software Engineer, 2022 --  
     - Build optimized time series systems, wrote library for debugging pytorch model.
-    - Head training platform reliability upgrades to support PyTorch model authoring and training through distributed data parallelism. 
+    - Head training platform reliability upgrades to support PyTorch model authoring and training through tensor & pipeline parallelism. 
     - Lead project on model source-control web-application to visualize model iteration and training progress.
-- Amazon Robotics, Software Engineer, March 2020 -- March 2022
-    - Design and build business critical distributed systems, utilized public cloud to scale edge device workflow.
+- Amazon Robotics, Software Engineer, 2020 -- 2022
+    - Designed and built solutions to support business needs and utilized on premise & cloud to securely productionize computer vision in the logistics industry with human feedback.
     - Lead full-stack revenue generating project from ideation to release with REST api and React-based UI.
     - Facilitate data-driven business success by translating problems into data models and build pipeline for streaming data at scale for automation and transport systems.
-    - Improved engineering quality continuously with demo/workshops, AB testing and monitoring.
-- Amazon Web Service, Cloud Engineer, May 2017 -- Aug 2017
-    - ML Training: Enhanced online learning algorithm scalability for high profile clients' platform migration.
-    - Analytic: Designed, built event streams and monitoring components for predicting abnormal patterns.
+- Amazon Web Service, Cloud Engineer, 2016 -- 2017
+    - Machine Learning: Enhanced online learning algorithm scalability for high profile clients’ platform migration.
+    - Usage Analytics: Designed, built event streams and monitoring components for predicting abnormal patterns.
 
-### Technical Skills
-- Compute/Network: docker, airflow, cuda, aws, gcp; 
-- Data ops: Kafka, Cassandra, DynamoDB
-- Machine Learning: PyTorch, TensorFlow; 
-- Language: Kotlin, Java, Python, Golang
+### My swiss army knife
+- Deep learning: PyTorch | Tensorflow | Huggingface |MLflow | AWS Sagemaker |GCP Vertexi| Azure ML
+- Languages:  c++| python | scala | Java/Kotlin/PHP | Javascript
+- Data Ops: Hive |pySpark|Postgres|EMR |databrick |snowflake
+- Compute Acceleration: nvidia cuda | intel OpenVINO|  Kubernetes | Terraform
+
 
 ---
-### Contact
-LinkedIn: [Ted Li](https://www.linkedin.com/in/ted-li-lhl/) 
-Email: [email](mailto:teddylhl@gmail.com) | Address: Cambridge, MA, 02141 
+### Keep in touch
+- LinkedIn: [Teddy Li](https://www.linkedin.com/in/ted-li-lhl/) 
+- Email: [Professional contact](mailto:tli@thebabyai.com)
+- blogposts: [@teddy23ai](https://medium.com/@teddy23ai)
 
 
 
