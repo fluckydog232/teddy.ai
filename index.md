@@ -8,7 +8,12 @@
 ---
 
 ### My professional work
-- Meta(Facebook), Software Engineer, 2022 --  
+- IMF, Machine learning engineer, 2024-- present
+  - Develop cutting-edge generative AI solutions leveraging state-of-the-art language models for predictive analytics. 
+  - Designe scalable feature selection pipelines and data lakehouse architectures to support large-scale forecasting.
+  - Designed and deployed prediction engines, incorporating best practices in MLOps and ensuring high availability of data-driven insights
+
+- Meta(Facebook), Software Engineer, 2022 -- 2023
     - Build optimized time series systems, wrote library for debugging pytorch model.
     - Head training platform reliability upgrades to support PyTorch model authoring and training through tensor & pipeline parallelism. 
     - Lead project on model source-control web-application to visualize model iteration and training progress.
